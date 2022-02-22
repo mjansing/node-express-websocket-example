@@ -16,3 +16,5 @@ Use browser developer tools for websocket connection and sending messages:
 1. `ws = new WebSocket('ws://localhost:3000')`
 1. `ws.send('Hello')`
 1. See network tab for messages
+
+![Example](example.gif)
